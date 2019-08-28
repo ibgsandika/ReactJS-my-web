@@ -1,0 +1,25 @@
+.inbody{
+    height:1000px;
+    width: 100%;
+    background: #20252b;
+    margin-top: 3%;
+}
+.card{
+    display: inline-block;
+    left: 2%;
+    top: 2%;
+    bottom: 1%;
+    height: 25%;
+    width: 25%;
+    padding: 50px 20px;
+    margin-left: 2%;
+    
+}
+
+.bodyback{
+    padding: 50px 50px 50px 50px;
+    background: gainsboro;
+    width: 80%;
+    margin: auto;
+    
+}
